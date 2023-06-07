@@ -18,3 +18,17 @@
 
 ![write_quotes_vuln](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/a94d75df-f729-4263-9e31-d072c8d87c01)
 ![num_quote_chosen_index](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/a3f66bc4-f9ee-4450-bac1-c24088fe453a)
+
+
+![herisson](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/1fedbeb9-28fa-407b-b676-bcd43ebb11af)
+![import_herisson](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/3df588d8-c56c-405d-bd04-4bb7b64b4e9e)
+
+![spectrogram_herisson](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/3bbdb7cf-0324-4524-b472-e3e2c2eb96b1)
+
+![zommtofit_gerisson](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/0ee92527-fcb5-4f5a-89d8-25732d90cbb2)
+
+![first_setting_herisson](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/fe062470-adcf-45a5-af49-0838b4fdbdd0)
+![first_part_herisson](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/2da3aafe-3a84-46f7-9db2-4364c05d89ed)
+
+![second_part_flag_herisson](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/bd731da5-0d26-4823-a7c9-8e79775368d4)
+
