@@ -9,3 +9,8 @@
 
 ![expport_object](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/55f1b715-c833-4724-81d0-18071fbaa5a8)
 ![flag_for_intro](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/c800ddfd-c126-4fa4-9b8d-a47845c4b2ed)
+
+
+![roman_damour](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/6ff6ad5e-ef53-491a-b50e-7fc3ed783d1a)
+![img_book](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/e5f28a6a-b2e3-47b4-bd83-bd3c938ec836)
+![qr_code_for](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/852573ac-e4d3-4008-8b21-40deb0037b9e)
