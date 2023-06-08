@@ -42,3 +42,14 @@
 
 ![func_name_chache](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/43956ad6-eb89-45fa-86f0-7ad970e0391e)
 
+![main_alchi](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/0b9c39a5-1c63-47d8-b3d1-8fc292384c09)
+![main_1_lalchi](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/2b9bd0e6-912f-409b-9e1f-c2173dc4bea1)
+![view_flag](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/734a9616-faf2-4d0a-87c4-bf7fe71c9314)
+![asm_createChar](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/d48f241e-45b9-4a2f-a8fc-8621caf1df1e)
+![createChar](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/1aebaf27-33ad-418b-ba33-6b82539c3115)
+
+
+
+
+
+
