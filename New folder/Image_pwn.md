@@ -39,3 +39,6 @@
 ![br_point](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/6c1fc56e-7b86-407b-82ab-55bd2acb9b56)
 ![give_a_gift](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/deab306f-6332-421b-bfc7-6965bb4278af)
 ![PS_cache_cahe](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/67161fe4-719e-4340-a471-d50909b44951)
+
+![func_name_chache](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/43956ad6-eb89-45fa-86f0-7ad970e0391e)
+
