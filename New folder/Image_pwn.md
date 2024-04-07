@@ -50,6 +50,19 @@
 
 
 
+![ls_la](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/503196fd-857d-4464-8522-649daa8e0b2b)
+![scp](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/e96b237a-f1b7-4678-9adf-44c400a260cc)
+![bin_info](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/b65bb9d4-dfbd-40a2-ae52-647285d1b697)
+![main_func](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/02e285e5-8acc-4823-a0b8-f751b2cb8455)
+![vuln_func](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/3bc03ab4-7ded-40eb-afc3-c968f1cd3461)
+![gdb_break_point](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/99f94108-9a8b-442b-b9f4-8fd7e44302a1)
+![find_junk](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/998f54ae-2594-4a7c-9d21-dfffa40a0c0f)
+![return_overwrite](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/30b6836e-954a-4885-953b-1d29ffccd3ad)
+![shellcode_env](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/ecd9fa65-da8b-42f7-ad68-b7036cb3700c)
+![findenv](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/71b0f58b-7ef6-4443-b67c-12e782577d73)
+![shellcode_addr](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/b9496a0c-62d9-4daa-95eb-bc892d2f58df)
+![flag](https://github.com/CongKhaiNGUYEN/CTF/assets/61443497/f160110f-8881-4232-b40d-864b31f03569)
+
 
 
 
